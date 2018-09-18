@@ -1,0 +1,9 @@
+import database module
+connect to thw database
+acquire cursor, with connection.cursor()
+execute SQL statement. With execute(),executemany()
+fetch the results with getchone
+
+
+
+#datatypes
